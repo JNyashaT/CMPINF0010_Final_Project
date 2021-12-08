@@ -1,7 +1,7 @@
 # CMPINF0010_Final_Project
 <br> Jahzara Taylor (jnt22.pitt.edu)
 <br> Joseph Tornetta (jft19@pitt.edu)
-<br> David Pratt (dprattsci@pitt.edu
+<br> David Pratt (dprattsci@pitt.edu)
 
 **Datasets Used**
 <br> https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
