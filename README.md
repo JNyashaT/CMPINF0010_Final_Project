@@ -4,7 +4,7 @@
 <br> David Pratt (dprattsci@pitt.edu)
 
 **Abstract**
-<br> Using the metrics of blood lead levels, capital projects, and air quality benefits in each Pittsburgh neighborhood, we determined that ___ is the neighborhood most like Thneedville from the Lorax.
+<br> Using the metrics of blood lead levels, capital projects, and air quality benefits in each Pittsburgh neighborhood, we determined that Beltzhoover is the neighborhood most like Thneedville from the Lorax.
 
 **Datasets Used**
 <br> https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
