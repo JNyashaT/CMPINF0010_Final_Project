@@ -4,7 +4,7 @@
 <br> David Pratt (dprattsci@pitt.edu)
 
 **Abstract**
-<br> Using the metrics of blood lead levels, capital projects, and air quality benefits in each Pittsburgh neighborhood, we determined that Beltzhoover is the neighborhood most like Thneedville from the Lorax.
+<br> Using the metrics of elevated blood lead levels, budgeting for capital projects, and air quality benefits in each Pittsburgh neighborhood and surrounding areas, we determined that Esplen is the neighborhood most similar Thneedville from the Lorax. The neighborhood that had the highest elevated blood lead levels, capital project budget, and the least air quality benefits were considered. From each result, a percentage was calculated and that percentage total was used to assess the best neighborhood.
 
 **Datasets Used**
 <br> Elevated Blood Lead Levels in Water: https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
